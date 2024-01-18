@@ -43,7 +43,7 @@ git clone https://github.com/BomBa-001/CV-BomBa.git
 
 #### 002 go to folder Application:
 ```
-cd CV-BomBa
+cd CV-BomBa-dir
 ```
 
 #### 003 Open in code editor & Open with Live Server:
@@ -101,6 +101,6 @@ http://localhost:9000
 <!-- ## Usage 💻                         الإستخدام -->
 <!-- ## Contributing 🤝                  المساهمة -->
 ## License ©️                       <!-- الرخصة -->
-The License ([BOMBA](https://bomba-001.github.io/CV-BomBa/))
+The License ([BOMBA](https://bomba-001.github.io/CV-BomBa-dir/))
 
 Copyright (c) 2016 [Hussein Abdo](https://bomba-001.github.io/CV-Hussein/)
