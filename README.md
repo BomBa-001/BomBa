@@ -101,6 +101,6 @@ http://localhost:9000
 <!-- ## Usage 💻                         الإستخدام -->
 <!-- ## Contributing 🤝                  المساهمة -->
 ## License ©️                       <!-- الرخصة -->
-The License ([BOMBA](https://bomba-001.github.io/CV-BomBa-dir/))
+The License ([BOMBA](https://bomba-001.github.io/BomBa/))
 
 Copyright (c) 2016 [Hussein Abdo](https://bomba-001.github.io/CV-Hussein/)
